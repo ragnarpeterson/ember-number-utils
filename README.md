@@ -4,7 +4,10 @@ A collection of utilities for dealing with numbers in Ember.
 
 ## Installation
 
-* `npm install --save ember-number-utils`
+```bash
+# From within your ember-cli project
+ember install:addon ember-number-utils
+```
 
 ## Usage
 
